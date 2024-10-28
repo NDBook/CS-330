@@ -1,7 +1,7 @@
 # CS-330
 Comp Graphic and Visualizations
 
-How do I approach designing software? ::end
+How do I approach designing software? 
 What new design skills has your work on the project helped you to craft?
 The new design skills that I developed during the project were all the concepts introduced throughout the course.
 
